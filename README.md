@@ -1,5 +1,3 @@
----
-
 # ZaquaHost
 **Fast, Secure, Reliable**
 
