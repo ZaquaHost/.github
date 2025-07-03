@@ -18,10 +18,10 @@ We're passionate about open-source, frontend design, and Laravel-based integrati
 ## 🔧 Our Projects
 
 ### ✨ LucentUI – Blade Theme for Paymenter
-> A modern and glass-inspired UI theme for [Paymenter](https://github.com/paymenter/paymenter).  
+> A modern and glass-inspired UI theme for [Paymenter](https://paymenter.org).  
 > Clean, responsive, and smooth out of the box.
 
-📁 [View LucentUI »]([https://github.com/zaquadev/lucentui](https://builtbybit.com/resources/lucentui-a-theme-for-paymenter.70343/))  
+📁 [View LucentUI »](https://builtbybit.com/resources/lucentui-a-theme-for-paymenter.70343/)  
 📄 Status: **Paid, Open Source**  
 🛠️ Stack: Laravel Blade, TailwindCSS, JS
 
@@ -30,7 +30,7 @@ We're passionate about open-source, frontend design, and Laravel-based integrati
 ### 💳 Tripay Gateway Extension for Paymenter
 > Native integration for Tripay (Indonesian payment gateway), allowing automated invoice processing and webhook responses.
 
-📁 [View Tripay Extension »]([https://github.com/zaquadev/paymenter-tripay](https://builtbybit.com/resources/tripay-payment-gateway-for-paymenter.68790/?ref=discover))  
+📁 [View Tripay Extension »](https://builtbybit.com/resources/tripay-payment-gateway-for-paymenter.68790/?ref=discover)  
 📄 Status: **Open Source**  
 🛠️ Stack: PHP, Laravel, REST API
 
