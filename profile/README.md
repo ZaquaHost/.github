@@ -1,7 +1,5 @@
-# ZaquaHost
+# Zaqua
 **Fast, Secure, Reliable**
-
-![ZaquaHost Logo](https://cdn.discordapp.com/attachments/1259408986286067732/1259450415062450216/Desain_tanpa_judul.png?ex=66944bda&is=6692fa5a&hm=4fc439932a177f7693e3b3522a3a4d06e98b3e3e9b75cf1a6334d0d2496a805d&)
 
 Selamat datang di ZaquaHost! Kami adalah penyedia layanan hosting berkualitas dan terjangkau yang siap memenuhi kebutuhan online Anda. 
 
